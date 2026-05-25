@@ -181,7 +181,13 @@ that integration project.
 
 ## Team
 
-**GustGurus** — Will Kraus, Nikolaj Hindsbo, and project teammates.
+**GustGurus:**
+
+- Nikolaj Hindsbo — [@HindsboNikolaj](https://github.com/HindsboNikolaj)
+- Denis Alpay — [@DenisAlpay](https://github.com/DenisAlpay)
+- Kaustabh Paul — [@RedTorus](https://github.com/RedTorus)
+- Will Kraus — [@willkraus9](https://github.com/willkraus9)
+
 Original repository: [github.com/willkraus9/GustGurus-Drone-Project][orig].
 
 [orig]: https://github.com/willkraus9/GustGurus-Drone-Project
